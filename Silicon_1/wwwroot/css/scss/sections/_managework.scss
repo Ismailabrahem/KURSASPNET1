@@ -1,0 +1,54 @@
+.dashboard {
+
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 100px;
+        height: 90%;
+        margin-top: 100px;
+        margin-left: 15%;
+
+        .dashboard-image {
+        }
+
+        .manage-work {
+            margin-top: 30%;
+            margin-left: 50px;
+
+            h2 {
+                @include font;
+                font-weight: var(--font-weight-extrabold);
+            }
+
+            .manage-tasks {
+                margin-top: 8%;
+
+                .manage-task {
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                    margin-top: 10px;
+
+
+                    img {
+                        max-width: 100%;
+                        height: auto;
+                    }
+
+                    p {
+                        @include font;
+                        margin: 0;
+                        color: var(--color-gray-700);
+                        font-size: 16px;
+                    }
+                }
+            }
+
+            .learn-more {
+                margin-top: 50px;
+                font-weight: var(--font-weight-semibold);
+            }
+        }
+    }
+}

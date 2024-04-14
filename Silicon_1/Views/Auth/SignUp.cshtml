@@ -1,0 +1,69 @@
+﻿@model SignUpViewModel
+
+@{
+    ViewData["Title"] = "Sign up";
+}
+
+<section class="sign-up">
+    <div class="container">
+
+        <div class="sign-title">
+            <h1>Create Account</h1>
+            <div class="no-account">
+                <p>Already have an account? </p>
+                <a asp-action="SignIn" asp-controller="Auth">Sign in here</a>
+            </div>
+        </div>
+
+
+        <form method="post" asp-action="SignUp" asp-controller="Auth">
+
+            <div>
+                @ViewData["StatusMessage"]
+            </div>
+
+            <div class="signup-name">
+            <div class="input-group">
+                <label asp-for="Firstname"></label>
+                <input asp-for="Firstname" />
+                <span asp-validation-for="Firstname"></span>
+            </div>
+
+            <div class="input-group">
+                <label asp-for="Lastname"></label>
+                <input asp-for="Lastname" />
+                <span asp-validation-for="Lastname"></span>
+            </div>
+            </div>
+
+            <div class="input-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+
+            <div class="input-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <div class="input-group">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" />
+                <span asp-validation-for="ConfirmPassword"></span>
+            </div>
+
+            <div class="checkbox-group">
+                <div class="input-group">
+                    <input asp-for="TermsAndConditions" />
+                    <label asp-for="TermsAndConditions"></label>
+                </div>
+                <span asp-validation-for="TermsAndConditions"></span>
+            </div>
+
+            <button class="btn-standard" type="submit">Sign up</button>
+
+        </form>
+    </div>
+</section>

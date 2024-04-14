@@ -1,0 +1,106 @@
+.download {
+    background-color: var(--color-gray-100);
+    padding: 80px;
+    
+
+    .container {
+        display: flex;
+        gap: 150px;
+
+
+        .dowload-img { 
+        }
+
+        .download-app {
+            @include font;
+            display: grid;
+            align-items: center;
+
+            .download-title {
+                width: 60%;
+
+                h2 {
+                    @include font-d-h;
+                    font-weight: var(--font-weight-extrabold);
+                    font-size: 40px;
+                }
+            }
+
+
+            .app-store {
+                display: flex;
+                gap: 50px;
+
+                p {
+                    font-size: 16px;
+                }
+
+                .img-appstore {
+                    position: relative;
+                }
+
+                .image-astore {
+                    position: absolute;
+                    bottom: 0;
+                    margin-bottom: 20px;
+                }
+
+
+                .app-content {
+                    .app-title {
+                        color: var(--color-gray-600);
+                        margin-bottom: 0px;
+                    }
+
+                    .stars {
+                        margin-bottom: 10px;
+                    }
+
+                    .app-rating {
+                        color: var(--color-gray-700);
+                    }
+
+                    h4 {
+                        @include font-d-h;
+                        font-weight: var(--font-weight-extrabold);
+                    }
+                }
+            }
+
+            .google-play {
+                display: flex;
+                gap: 50px;
+
+                .img-appstore {
+                    position: relative;
+                }
+
+                .image-astore {
+                    position: absolute;
+                    bottom: 0;
+                    margin-bottom: 20px;
+                }
+
+                .google-content {
+                    .app-title {
+                        color: var(--color-gray-600);
+                        margin-bottom: 0;
+                    }
+
+                    .app-rating {
+                        color: var(--color-gray-700);
+                    }
+
+                    .stars {
+                        margin-bottom: 10px;
+                    }
+
+                    h4 {
+                        @include font-d-h;
+                        font-weight: var(--font-weight-extrabold);
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+﻿@using Infrastructure.Models
+@model AccountSecurityInfo
+@{
+    Layout = "_AccountLayout";
+    ViewData["Title"] = "Account Security";
+}
+
+<section>
+    <div class="container-account">
+        <div class="account-info">
+            <div class="account-info-title">
+                <h2>Security</h2>
+                <h5>Password</h5>
+            </div>
+
+            <div class="change-password">
+                <form method="post" asp-controller="Account" asp-action="AccountSecurity">
+                    <div class="grid-account-container-1">
+                        <div class="input-group">
+                            <label asp-for="CurrentPassword"></label>
+                            <input asp-for="CurrentPassword" />
+                            <span asp-validation-for="CurrentPassword"></span>
+                        </div>
+                    </div>
+
+                    <div class="grid-account-container-2">
+                        <div class="input-group">
+                            <label asp-for="NewPassword"></label>
+                            <input asp-for="NewPassword" />
+                            <span asp-validation-for="NewPassword"></span>
+                        </div>
+                        <div class="input-group">
+                            <label asp-for="ConfirmNewPassword"></label>
+                            <input asp-for="ConfirmNewPassword" />
+                            <span asp-validation-for="ConfirmNewPassword"></span>
+                        </div>
+                    </div>
+                    <div class="btn-details">
+                        <button type="reset" class="btn-gray">Cancel</button>
+                        <button type="submit" class="btn-account">Save Changes</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="delete-user">
+                <h5>Delete account</h5>
+                <p>When you delete your account, your public profile will be deactivated immediately. If you change your mind before the 14 days are up, sign in with your email and password, and we’ll send you a link to reactivate your account.</p>
+
+                <form method="post" asp-controller="Account" asp-action="DeleteUser" id="deleteAccountForm">
+                    
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="confirmDeleteCheckbox"/>
+                        <label class="form-check-label" for="confirm-DeleteCheckbox">
+                            Yes, i want to delete my account.
+                        </label>
+                    </div>
+                    
+                    <div class="account-buttons">
+                    <button type="submit" class="btn-standard" id="deleteButton" disabled>Delete</button>
+                    </div>
+                </form>
+
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+

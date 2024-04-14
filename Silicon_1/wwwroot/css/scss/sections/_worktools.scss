@@ -1,0 +1,56 @@
+.worktools {
+    padding: 90px;
+
+    .container {
+
+        .title-worktools {
+            display: grid;
+            text-align: center;
+            width: 65%;
+            margin-left: auto;
+            margin-right: auto;
+
+            h2 {
+                @include font;
+                color: var(--color-gray-900);
+                font-weight: var(--font-weight-extrabold);
+                font-size: 40px;
+            }
+
+            p {
+                @include font;
+                color: var(--color-gray-600);
+                font-size: 18px;
+                margin-top: 20px;
+                margin-bottom: 80px;
+            }
+        }
+
+
+
+        .worktoolbox-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+
+
+            .worktool-box {
+                width: 80%;
+                transition: box-shadow 0.3s ease;
+                border-radius: 8px;
+                padding: 20px;
+            }
+
+            .worktool-box:hover {
+                box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+            }
+
+            p {
+                @include font;
+                color: var(--color-gray-700);
+                font-size: 16px;
+                margin-top: 20px;
+            }
+
+        }
+    }
+}

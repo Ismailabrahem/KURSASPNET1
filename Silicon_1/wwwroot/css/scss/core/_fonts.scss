@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+:root {
+    --font-manrope: "Manrope", sans-serif;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --font-weight-extrabold: 800;
+}
+
+@mixin font {
+    font-family: var(--font-manrope);
+}
+
+@mixin font-standard {
+    font-family: var(--font-manrope);
+    color: var(--color-gray-700);
+    font-weight: var(--font-weight-semibold);
+}
+
+@mixin font-d-h {
+    font-family: var(--font-manrope);
+    color: var(--color-gray-900);
+}
+
+    @mixin font-d1 {
+        @include font-d-h;
+        font-size: 5em;
+    }
+
+    @mixin font-d2 {
+        @include font-d-h; 
+        font-size: 4.5em;
+    }
+
+    @mixin font-d3 {
+        @include font-d-h;
+        font-size: 4em;
+    }
+
+@mixin font-d4 {
+    @include font-d-h;
+    font-size: 3.5em;
+    font-weight: var(--font-weight-extrabold);
+}
+
+    @mixin font-d5 {
+        @include font-d-h;
+        font-size: 3em;
+    }
+
+    @mixin font-d6 {
+        @include font-d-h;
+        font-size: 2.6em;
+    }
+
+@mixin font-h1 {
+    @include font-d-h;
+    font-size: 2.5em;
+    font-weight: var(--font-weight-extrabold);
+}
+
+    @mixin font-h2 {
+        @include font-d-h;
+        font-size: 2em;
+    }
+
+    @mixin font-h3 {
+        @include font-d-h;
+        font-size: 1.75em;
+    }
+
+    @mixin font-h4 {
+        @include font-d-h;
+        font-size: 1.5em;
+    }
+
+@mixin font-h5 {
+    @include font-d-h;
+    font-size: 1.25em;
+    font-weight: var(--font-weight-bold);
+}
+
+@mixin font-h6 {
+    @include font-d-h;
+    font-size: 1em;
+    
+}
+

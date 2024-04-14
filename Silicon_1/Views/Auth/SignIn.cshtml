@@ -1,0 +1,65 @@
+﻿@model SignInViewModel
+
+@{
+    ViewData["Title"] = "Sign in";
+}
+
+@if (TempData["AccountDeleted"] != null)
+{
+    <script>
+        window.onload = function () {
+            alert("@TempData["AccountDeleted"]");
+        };
+    </script>
+}
+
+<section class="sign-in">
+    <div class="container">
+
+        <div class="sign-title">
+            <h1>Welcome Back</h1>
+            <div class="no-account">
+                <p>Don’t have an account yet?</p>
+                <a asp-action="SignUp" asp-controller="Auth">Sign up here</a>
+            </div>
+        </div>
+
+
+        
+        <form method="post" asp-action="SignIn" asp-controller="Auth">
+
+            <div class="alert">
+                @ViewData["StatusMessage"]
+            </div>
+                
+            <div class="input-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+            </div>
+
+            <div class="input-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+            </div>
+
+            <div class="checkbox-group">
+                <div class="input-group">
+                    <input asp-for="RememberMe" />
+                    <label asp-for="RememberMe"></label>
+                </div>
+            </div>
+
+            <div class="forgot-password">
+                <button class="btn-standard" type="submit">Sign In</button>
+
+               
+                </div>
+            <div class="forgot-link">
+                <a asp-action="SignUp" asp-controller="Auth">Forgot your password?</a>
+            </div>
+            
+        </form>
+        
+        
+    </div>
+</section>

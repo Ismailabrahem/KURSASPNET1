@@ -1,0 +1,48 @@
+form {
+    width: 100%;
+    display: grid;
+    font-size: 16px;
+
+    .input-group {
+        display: grid;
+        padding-top: 5px;
+    }
+
+    input[type=checkbox] {
+        height: 18px;
+        width: 18px;
+        margin: 0;
+    }
+
+    button {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    textarea,
+    select,
+    input:not([type="checkbox"]) {
+        font-size: 1em;
+        font-family: "manrope";
+        border-radius: 8px !important;
+        border: 2px solid var(--color-gray-400);
+        padding: 12px 16px;
+        font-weight: 400 !important;
+        min-width: 300px;
+        margin-bottom: 20px;
+
+        &::placeholder {
+            opacity: 0.5;
+        }
+    }
+
+    .field-validation-error {
+        font-size: 14px;
+        font-weight: 400 !important;
+        color: var(--color-danger);
+    }
+
+    .input-validation-error {
+        border-color: var(--color-danger) !important;
+    }
+}

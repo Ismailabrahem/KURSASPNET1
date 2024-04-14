@@ -1,0 +1,50 @@
+﻿.change-password {
+    .grid-account-container-1 {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 50%;
+    }
+
+    .grid-account-container-2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        
+        
+
+        input,label, span {
+          
+        }
+    }
+}
+
+
+.delete-user {
+    border-top: 1px solid var(--color-gray-400);
+    margin-top: 30px;
+
+    h5 {
+        margin-top: 30px;
+    }
+
+    p {
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-weight: 300 !important;
+    }
+
+    input {
+        border: 2px solid var(--color-gray-500);
+    }
+
+    .account-buttons {
+
+        button {
+            margin-top: 20px;
+            background-color: var(--color-danger);
+            width: 12%;
+            border: none;
+        }
+    }
+}

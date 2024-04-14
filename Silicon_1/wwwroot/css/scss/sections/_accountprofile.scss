@@ -1,0 +1,48 @@
+.account-profile {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+
+    button {
+        width: 100%;
+    }
+
+    .profile {
+        align-items: center;
+
+        .image {
+            position: relative;
+
+            img {
+                border-radius: 50%;
+            }
+
+            form {
+                position: relative;
+
+                label {
+                    position: absolute;
+                    right: 25%;
+                    bottom: 25%;
+                    width: 30px;
+                    height: 30px;
+                    background-color: white;
+                    border-radius: 50%;
+                    border: 2px solid var(--color-gray-200);
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+            }
+        }
+    }
+
+    .info {
+        padding-top: 20px;
+
+        h3 {
+            @include font-h5;
+            font-weight: 900;
+        }
+    }
+}

@@ -1,0 +1,62 @@
+.switch-mode {
+    @include font;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+    position: relative;
+
+    .dark-switch-mode {
+        background-color: var(--color-gray-900);
+        text-align: end;
+        color: white;
+        border-right: 2px solid #6366F1;
+
+        .switch-title {
+            h2 {
+                font-size: 40px;
+                margin-top: 10%;
+                margin-right: 0.5%;
+                font-weight: var(--font-weight-extrabold);
+            }
+        }
+    }
+
+    .light-switch-mode {
+        background-color: white;
+        border-left: 2px solid #6366F1;
+
+        .switch-title {
+            h2 {
+                font-size: 40px;
+                margin-top: 10%;
+                margin-left: 0.5%;
+                font-weight: var(--font-weight-extrabold);
+            }
+        }
+    }
+
+    .macbook {
+        position: absolute;
+        left: 50%;
+        top: 55%;
+        transform: translate(-50%, -50%);
+    }
+
+    .macbook-border {
+        position: absolute;
+        left: 50%;
+        top: 0;
+        bottom: 0;
+        width: 3px;
+        background-color: #6366F1;
+        transform: translateX(-50%);
+    }
+
+    .btn-switchmode {
+        position: absolute;
+        left: 50%;
+        top: 45%;
+        bottom: 0;
+        transform: translateX(-50%);
+    }
+}
