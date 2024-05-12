@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ETSZHzISqgEMr6LeqlmHwuQIQczwFggLA4RDasnoW/zrjy9slFpwIty4FkaPaLSSjBZMwobQISStnYL9X8WUpw==",
+  "dgSpecHash": "uLm77HGz5pkYaipYFTJm9qkIhYEFDpfO8Kyu/m5RwL/wWEEkgtci8cnh9qlIskO4PSXgvv0CnzGWcSWE+pvT/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Silicon\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

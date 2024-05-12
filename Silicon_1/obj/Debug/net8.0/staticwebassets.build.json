@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ipx2eDKFS2npZToiejrc2mS6d4MELwHOTYhMhyiAFt8=",
+  "Hash": "jXchRC/BKhjf1WobPRxACHxBrMIjZbZXEvEGX2VDtoM=",
   "Source": "Silicon_1",
   "BasePath": "_content/Silicon_1",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Silicon_1\\wwwroot",
       "Source": "Silicon_1",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\_components.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\_components.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/_components.scss",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_components.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\_core.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\_core.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/_core.scss",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_core.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\_sections.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\_sections.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/_sections.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_sections.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\components\\_buttons.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\components\\_container.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\components\\_container.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/components/_container.scss",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\components\\_forms.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\components\\_switches.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\components\\_switches.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/components/_switches.scss",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_switches.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\core\\_colors.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\core\\_colors.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/core/_colors.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\core\\_colors.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\core\\_fonts.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\core\\_fonts.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/core/_fonts.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\core\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\core\\_general.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\core\\_general.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/core/_general.scss",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\core\\_general.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\core\\_media.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\core\\_media.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/core/_media.scss",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\core\\_media.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_account.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_account.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_account.scss",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_account.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_accountprofile.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_accountprofile.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_accountprofile.scss",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_accountprofile.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_accountsecurity.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_accountsecurity.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_accountsecurity.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_accountsecurity.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_details.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_details.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_details.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_details.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_download.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_download.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_download.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_download.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_features.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_features.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_features.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_features.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_footer.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_footer.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_header.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_header.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_managework.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_managework.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_managework.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_managework.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_showcase.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_showcase.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_showcase.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_signin.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_signin.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_signin.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_signup.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_signup.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_signup.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_switchmode.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_switchmode.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_switchmode.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_switchmode.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\scss\\sections\\_worktools.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\scss\\sections\\_worktools.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/scss/sections/_worktools.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_worktools.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\site.css",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\site.min.css",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\css\\site.scss",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\css\\site.scss",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\favicon.ico",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\authors\\author_1.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\authors\\author_1.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/authors/author_1.svg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\authors\\author_1.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-1.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-1.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/brands/brand-logo-1.svg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brands\\brand-logo-1.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-2.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-2.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/brands/brand-logo-2.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brands\\brand-logo-2.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-3.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-3.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/brands/brand-logo-3.svg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brands\\brand-logo-3.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-4.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\brands\\brand-logo-4.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/brands/brand-logo-4.svg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brands\\brand-logo-4.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\download\\appstore.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\download\\appstore.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/download/appstore.svg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download\\appstore.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\download\\download-app.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\download\\download-app.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/download/download-app.svg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download\\download-app.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\download\\goldstar.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\download\\goldstar.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/download/goldstar.svg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download\\goldstar.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\download\\googleplay.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\download\\googleplay.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/download/googleplay.svg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download\\googleplay.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\download\\star.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\download\\star.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/download/star.svg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download\\star.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\features\\add-member.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\features\\add-member.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/features/add-member.svg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\add-member.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\features\\comment.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\features\\comment.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/features/comment.svg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\comment.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\features\\notification.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\features\\notification.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/features/notification.svg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\notification.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\features\\presentation.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\features\\presentation.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/features/presentation.svg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\presentation.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\features\\security.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\features\\security.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/features/security.svg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\security.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\features\\subtasks.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\features\\subtasks.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/features/subtasks.svg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\subtasks.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\dropbox.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\dropbox.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/dropbox.svg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\dropbox.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\evernote.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\evernote.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/evernote.svg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\evernote.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\gmail.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\gmail.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/gmail.svg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\gmail.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\google.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\google.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/google.svg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\google.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\mailchimp.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\mailchimp.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/mailchimp.svg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\mailchimp.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\slack.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\slack.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/slack.svg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\slack.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\trello.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\trello.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/trello.svg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\trello.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\icons\\worktools\\zoom.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\zoom.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/icons/worktools/zoom.svg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\worktools\\zoom.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\logo\\favicon.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\logo\\favicon.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/logo/favicon.svg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\favicon.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\logo\\logo-dark.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\logo\\logo-dark.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/logo/logo-dark.svg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo-dark.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\logo\\logo-light.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\logo\\logo-light.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/logo/logo-light.svg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo-light.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\managework\\check-circle.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\managework\\check-circle.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/managework/check-circle.svg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\managework\\check-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\managework\\manage-dashboard.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\managework\\manage-dashboard.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/managework/manage-dashboard.svg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\managework\\manage-dashboard.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\avatar.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\avatar.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/avatar.svg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\avatar.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_00d4846e-50bd-4bad-9003-8b2880a0dc73.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_00d4846e-50bd-4bad-9003-8b2880a0dc73.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_00d4846e-50bd-4bad-9003-8b2880a0dc73.svg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_00d4846e-50bd-4bad-9003-8b2880a0dc73.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_49d48ded-a697-4813-933a-0134acbbdde1.jpg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_49d48ded-a697-4813-933a-0134acbbdde1.jpg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_49d48ded-a697-4813-933a-0134acbbdde1.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_49d48ded-a697-4813-933a-0134acbbdde1.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_51eca4f3-00b5-4ad1-874c-8b9afee634a8.jpeg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_51eca4f3-00b5-4ad1-874c-8b9afee634a8.jpeg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_51eca4f3-00b5-4ad1-874c-8b9afee634a8.jpeg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_51eca4f3-00b5-4ad1-874c-8b9afee634a8.jpeg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_746c0a5e-269b-4461-ace5-ea0571ef2425.jpg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_746c0a5e-269b-4461-ace5-ea0571ef2425.jpg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_746c0a5e-269b-4461-ace5-ea0571ef2425.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_746c0a5e-269b-4461-ace5-ea0571ef2425.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_819c72d4-7597-498d-9e5a-57e71a72058f.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_819c72d4-7597-498d-9e5a-57e71a72058f.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_819c72d4-7597-498d-9e5a-57e71a72058f.svg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_819c72d4-7597-498d-9e5a-57e71a72058f.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8ae6ca4a-850d-485b-89e6-1080cbcef619.png",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8ae6ca4a-850d-485b-89e6-1080cbcef619.png",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8ae6ca4a-850d-485b-89e6-1080cbcef619.png",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8ae6ca4a-850d-485b-89e6-1080cbcef619.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8d45110b-6ee3-4b45-bd13-0140dba0ed31.jpg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8d45110b-6ee3-4b45-bd13-0140dba0ed31.jpg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8d45110b-6ee3-4b45-bd13-0140dba0ed31.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_8d45110b-6ee3-4b45-bd13-0140dba0ed31.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_d3e6b3de-5c76-4959-858f-8a1104c670c2.jpeg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_d3e6b3de-5c76-4959-858f-8a1104c670c2.jpeg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_51f5e641-0ea4-4fa5-9e82-441d7386216b_d3e6b3de-5c76-4959-858f-8a1104c670c2.jpeg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_51f5e641-0ea4-4fa5-9e82-441d7386216b_d3e6b3de-5c76-4959-858f-8a1104c670c2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_5dbe73dc-237f-49b7-bcde-eceeb7714fda_2bb8ec1c-4c25-47c7-853f-ec49bda14b0d.png",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_5dbe73dc-237f-49b7-bcde-eceeb7714fda_2bb8ec1c-4c25-47c7-853f-ec49bda14b0d.png",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_5dbe73dc-237f-49b7-bcde-eceeb7714fda_2bb8ec1c-4c25-47c7-853f-ec49bda14b0d.png",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_5dbe73dc-237f-49b7-bcde-eceeb7714fda_2bb8ec1c-4c25-47c7-853f-ec49bda14b0d.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_b8de311a-1678-428d-b98e-39a78da1c503_2b2a1708-bf73-4b73-b074-02c634ef528c.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_b8de311a-1678-428d-b98e-39a78da1c503_2b2a1708-bf73-4b73-b074-02c634ef528c.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_b8de311a-1678-428d-b98e-39a78da1c503_2b2a1708-bf73-4b73-b074-02c634ef528c.svg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_b8de311a-1678-428d-b98e-39a78da1c503_2b2a1708-bf73-4b73-b074-02c634ef528c.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\profiles\\p_b8de311a-1678-428d-b98e-39a78da1c503_ac19268d-3df0-4177-bdca-7220a32fa8a5.png",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\profiles\\p_b8de311a-1678-428d-b98e-39a78da1c503_ac19268d-3df0-4177-bdca-7220a32fa8a5.png",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/profiles/p_b8de311a-1678-428d-b98e-39a78da1c503_ac19268d-3df0-4177-bdca-7220a32fa8a5.png",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profiles\\p_b8de311a-1678-428d-b98e-39a78da1c503_ac19268d-3df0-4177-bdca-7220a32fa8a5.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\showcase\\taskmaster-twisted.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\showcase\\taskmaster-twisted.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/showcase/taskmaster-twisted.svg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\images\\showcase\\taskmaster-twisted.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\switchmode\\btn-switchmode.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\switchmode\\btn-switchmode.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/switchmode/btn-switchmode.svg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\switchmode\\btn-switchmode.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\switchmode\\macbook.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\switchmode\\macbook.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/switchmode/macbook.svg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\switchmode\\macbook.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\images\\switchmode\\macbook_1.svg",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\switchmode\\macbook_1.svg",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "images/switchmode/macbook_1.svg",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\switchmode\\macbook_1.svg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\js\\site.js",
       "SourceId": "Silicon_1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
       "BasePath": "_content/Silicon_1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

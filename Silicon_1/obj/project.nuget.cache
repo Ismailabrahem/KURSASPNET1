@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fGqacf9C7Bc7rglaEjBV8js8f8eN0b0Yc2ui6WCRSqo1BSUIAiC8IhwZkzBmSkmxt11CO5ixPXm0Fm90f0gcEg==",
+  "dgSpecHash": "DX1fegz/1B8w0XiSDqCtqQlDSNSB6t/8ohLIJc9zC73rYQ6OUp65ij4ojPWag+QEZUq3muz2/9YDiyKug02J3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Silicon\\Silicon_1\\Silicon_1.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\Silicon_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
