@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jXchRC/BKhjf1WobPRxACHxBrMIjZbZXEvEGX2VDtoM=",
+  "Hash": "KA2jJOMCHnvNTayQ0ibaltvHbBGN08J9nqWvxIrerK8=",
   "Source": "Silicon_1",
   "BasePath": "_content/Silicon_1",
   "Mode": "Default",
@@ -2010,6 +2010,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\features\\subtasks.svg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\newsletters\\arrows.svg",
+      "SourceId": "Silicon_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\",
+      "BasePath": "_content/Silicon_1",
+      "RelativePath": "images/icons/newsletters/arrows.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\newsletters\\arrows.svg"
     },
     {
       "Identity": "C:\\Users\\PC\\Documents\\GitHub\\KURSASPNET1\\Silicon_1\\wwwroot\\images\\icons\\worktools\\dropbox.svg",
